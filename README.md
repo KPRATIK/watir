@@ -25,6 +25,8 @@ Your test case ruby file will look like this:
 	end
 
 
- And done
+And done.
+
 Also have a look at the sample excel file
+
 =====
