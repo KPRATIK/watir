@@ -1,15 +1,13 @@
 watir_keyword_driver
 =====
-Introduction:
+## Introduction:
 This framework can be used to create automation test without actually writing test scripts in ruby. 
 All you need is an excel file where you will define your test script and a simple ruby test file which will call the driver.
-
-
-How to install:
+=====
+### How to install:
 gem install watir_keyword_driver
-
-
-How to use:
+=====
+### How to use:
 Your test case ruby file will look like this:
 # add the gem
 require 'watir_keyword_driver' 
